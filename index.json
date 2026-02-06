@@ -1,7 +1,7 @@
 {
   "levels": [
     {
-      "folder": "levels/example-level",
+      "folder": "source",
       "title": { "en": "Example Level" },
       "subtitle": "",
       "author": "YourName",
