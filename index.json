@@ -1,9 +1,11 @@
 {
-    "title": "My Sonolus Server",
-    "subtitle": "GitHub Pages Server",
-    "banner": "",
-    "levels": {
-        "list": "/sonolus/levels",
-        "bundle": null
-    }
+    "levels": [
+        {
+            "name": "example-level",
+            "title": "Example Level",
+            "subtitle": "",
+            "author": "YourName",
+            "version": 1
+        }
+    ]
 }
