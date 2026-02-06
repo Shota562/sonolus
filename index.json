@@ -1,11 +1,11 @@
 {
-    "levels": [
-        {
-            "name": "example-level",
-            "title": "Example Level",
-            "subtitle": "",
-            "author": "YourName",
-            "version": 1
-        }
-    ]
+  "levels": [
+    {
+      "folder": "levels/example-level",
+      "title": { "en": "Example Level" },
+      "subtitle": "",
+      "author": "YourName",
+      "version": 1
+    }
+  ]
 }
