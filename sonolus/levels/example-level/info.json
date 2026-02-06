@@ -8,7 +8,7 @@
     "version": 1,
     "bgm": "/sonolus/levels/example-level/audio.mp3",
     "data": {
-        "chart": "/sonolus/levels/example-level/chart.sus"
+        "chart": "/sonolus/levels/example-level/chart.json"
     },
     "cover": "/sonolus/levels/example-level/cover.jpg",
     "bg": "/sonolus/levels/example-level/bg.jpg"
