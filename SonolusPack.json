@@ -1,0 +1,15 @@
+{
+  "title": "My Sonolus Server",
+  "subtitle": "プロセカ創作譜面配布",
+  "description": "ブラウザだけで作ったSonolusサーバー",
+  "levels": [
+    {
+      "folder": "source",
+      "chart": "chart.sus",
+      "info": "info.json",
+      "audio": "audio.mp3",
+      "background": "bg.jpg",
+      "cover": "cover.jpg"
+    }
+  ]
+}
