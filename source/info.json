@@ -1,14 +1,7 @@
 {
-  "title": { "en": "Example Level" },
-  "artist": "Unknown",
-  "author": "YourName",
+  "name": "my-level",
   "version": 1,
-  "chart": "chart.sus",
-  "info": "info.json",
-  "audio": "audio.mp3",
-  "cover": "cover.jpg",
-  "background": "bg.jpg",
-  "difficulty": 5,
-  "bpm": 120,
-  "length": 60
+  "title": "Test Level",
+  "description": "Example level",
+  "tags": []
 }
