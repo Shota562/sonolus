@@ -1,0 +1,11 @@
+{
+  "name": "example-level",
+  "title": "Example Level",
+  "author": "YourName",
+  "engine": {
+    "name": "default"
+  },
+  "bgm": "bgm.mp3",
+  "data": "data.sus",
+  "cover": "cover.jpg"
+}
