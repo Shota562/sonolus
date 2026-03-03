@@ -1,0 +1,18 @@
+{
+  "levels": {
+    "list": [
+      {
+        "name": "example-level",
+        "title": "Example Level",
+        "author": "YourName",
+        "tags": [],
+        "cover": "/sonolus/levels/example-level/cover.jpg"
+      }
+    ]
+  },
+  "skins": { "list": [] },
+  "backgrounds": { "list": [] },
+  "effects": { "list": [] },
+  "particles": { "list": [] },
+  "engines": { "list": [] }
+}
