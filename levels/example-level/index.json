@@ -7,5 +7,6 @@
   },
   "bgm": "bgm.mp3",
   "data": "data.sus",
-  "cover": "cover.jpg"
+  "cover": "cover.jpg",
+  "background": "bg.jpg"
 }
